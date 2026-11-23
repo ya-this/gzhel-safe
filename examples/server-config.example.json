@@ -1,0 +1,13 @@
+{
+  "comment": "Example storage-server record for Gzhel Safe (POST /api/servers). Never share real credentials.",
+  "name": "Home NAS (SFTP)",
+  "protocol": "sftp",
+  "endpointUrl": "sftp://192.168.1.50:22",
+  "bucketOrPath": "/volume1/gzhel-backups",
+  "region": "home",
+  "authType": "basic",
+  "credentialUser": "backup",
+  "credentialSecret": "change-me",
+  "autoForward": true,
+  "sendEncrypted": true
+}
