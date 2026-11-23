@@ -17,7 +17,7 @@ before it ever leaves the device.
 | Platform | File | Version | Size | Notes |
 |---|---|---|---|---|
 | Windows 10/11 (x64) | [`Gzhel-Safe-Setup-1.0.0-x64.exe`](Gzhel-Safe-Setup-1.0.0-x64.exe) | 1.0.0 | ~119 MB | NSIS installer, per-user install |
-| Android 7.0+ (API 24+) | [`gzhel-safe-1.0.0.apk`](gzhel-safe-1.0.0.apk) | 1.0.0 | see file | Signed release APK, sideload |
+| Android 7.0+ (API 24+) | [`gzhel-safe-1.0.0.apk`](gzhel-safe-1.0.0.apk) | 1.0.0 | ~5.9 MB | Signed release APK, sideload |
 
 The same binaries are also attached to the
 [**v1.0.0 release**](../../releases) of this repository.
